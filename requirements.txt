@@ -1,6 +1,7 @@
 numpy
-qiskit
-qiskit-aer
+# Optional: only needed if a Qiskit backend is added (the simulator runs on NumPy).
+# qiskit
+# qiskit-aer
 streamlit
 pandas
 matplotlib
