@@ -1,0 +1,9 @@
+numpy
+qiskit
+qiskit-aer
+streamlit
+pandas
+matplotlib
+plotly
+cryptography
+pytest
